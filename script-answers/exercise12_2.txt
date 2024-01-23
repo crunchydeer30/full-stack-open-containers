@@ -1,0 +1,13 @@
+Script started on 2024-01-23 20:31:14+03:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="80" LINES="24"]
+]777;notify;Command completed;script exercise12_3.txt\]777;precmd\]0;pc@fedora:~/Desktop/Courses/Full Stack Open/full-stack-open/part12/full-stack-open-containers/script-answers\]7;file://fedora/home/pc/Desktop/Courses/Full%20Stack%20Open/full-stack-open/part12/full-stack-open-containers/script-answers\[?2004h[32mpc@fedora[0m:[32m~/Desktop/Courses/Full Stack Open/full-stack-open/part12/full-stack-open-containers/script-answers[0m$[0m [7mdocker container run -it ubuntu bash[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker container run -it ubuntu bash
+[?2004l]777;preexec\[?2004h]0;root@244f2dd35414: /root@244f2dd35414:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@244f2dd35414: /root@244f2dd35414:/# touch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l[?2004h]0;root@244f2dd35414: /root@244f2dd35414:/# [Kls usr/src/app/               cd usr/src/app/
+[?2004l[?2004h]0;root@244f2dd35414: /usr/src/approot@244f2dd35414:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@244f2dd35414: /usr/src/approot@244f2dd35414:/usr/src/app# exit
+[?2004lexit
+]777;notify;Command completed;docker container run -it ubuntu bash\]777;precmd\]0;pc@fedora:~/Desktop/Courses/Full Stack Open/full-stack-open/part12/full-stack-open-containers/script-answers\]7;file://fedora/home/pc/Desktop/Courses/Full%20Stack%20Open/full-stack-open/part12/full-stack-open-containers/script-answers\[?2004h[32mpc@fedora[0m:[32m~/Desktop/Courses/Full Stack Open/full-stack-open/part12/full-stack-open-containers/script-answers[0m$[0m exit
+[?2004l]777;preexec\exit
+
+Script done on 2024-01-23 20:32:11+03:00 [COMMAND_EXIT_CODE="0"]
