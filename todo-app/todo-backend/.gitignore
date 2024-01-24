@@ -8,6 +8,9 @@ yarn-error.log*
 # Mongodb data
 mongo_data
 
+# Redis data
+redis_data
+
 # Runtime data
 pids
 *.pid
