@@ -1,6 +1,6 @@
 FROM node:16 AS TEST
 
-WORKDIR /urs/src/app
+WORKDIR /usr/src/app
 
 COPY . .
 
