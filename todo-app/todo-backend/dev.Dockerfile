@@ -7,4 +7,4 @@ RUN npm ci
 
 ENV DEBUG=todo-backend:*
 USER node
-CMD npm start
+CMD npm run dev
